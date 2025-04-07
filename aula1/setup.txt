@@ -1,0 +1,19 @@
+Baixar e instalar:
+- Visual Studio Code 
+  Esse é o programa em que vamos criar os arquivos e editar código.
+  É como se fosse um bloco de notas com super poderes.
+  Por que não usar o bloco de notas ou outro editor de texto? Porque não lê as extensões de arquivos que vamos criar e não tem suporte a ferramentas de desenvolvedor.
+  Site para baixar: https://code.visualstudio.com/
+
+- Nodejs 
+  Essa é a ferramenta que interpreta e executa códigos da linguagem Javascript.
+  Existem algumas outras que fazem a mesma coisa, porém essa é a mais utilizada.
+  Site para baixar: https://nodejs.org/en
+
+Criar conta
+- Github
+  Git é uma ferramenta de versionamento de código. 
+  Com ela evitamos criar arquivos dessa forma: "projeto" - "projeto1" - "projeto certo" - "projeto agora vai".
+  Github é um produto para armazenarmos nosso projeto git fora do nosso computador (online). Esse é o mais utilizado.
+  Site para criar conta: https://github.com/
+  

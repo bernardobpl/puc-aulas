@@ -1,0 +1,22 @@
+Vamos utilizar Javascript (linguagem de programação) pois: 
+  - é mais fácil para iniciantes
+  - conseguimos fazer mais coisas escrevendo menos código
+  - rápido para desenvolver
+  - podemos usar no frontend e backend, no navegador do computador e do celular, aplicativos no celular, e programas no computador
+  - é extremamente utilizado no mercado
+  - é minha especialidade 😁
+
+Frontend
+É a parte da programação web/mobile que foca no desenvolvimento do interface. A parte visual do site ou aplicativo.
+Nessa área você irá buscar dados, formatar e mostrar ao usuário. Assim como coletar dados do usuário.
+Você também é responsável por dar vida ao design. 
+Imagine que você é o engenheiro e peão que vai construir o que o arquiteto desenhar, levando em consideração toda a parte técnica.
+Isso inclui criar o esqueleto, o estilo, as animações, pegar informações dos usuários via formulários e registrar ações do usuário na página.
+Não esqueça da performance. Seu site precisa ser rápido.
+
+Backend
+Essa é a parte que controla os dados que entram e saem da aplicação.
+Como muitos dizem, esse é o de trás dos panos.
+É o meio de campo entre seu frontend e seu banco de dados ou algum outro backend e o banco de dados.
+Você pode fazer automações por aqui, como por exemplo enviar um email ao usuário quando criar uma conta.
+Esses serviços não são expostos para o usuário comum.
