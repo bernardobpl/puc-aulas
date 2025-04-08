@@ -3,3 +3,5 @@ const createFullName = (firstName, lastName) => {
 };
 
 const fullName = createFullName("Bernardo", "Lopes");
+
+console.log(fullName)

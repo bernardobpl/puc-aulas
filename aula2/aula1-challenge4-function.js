@@ -6,23 +6,21 @@
 
 // Ax2 + Bx + C = 0
 
-const A = 1
+function solveEquation(A, B, C) {
+  if(A === 0) {
+    const x = -C/B
+    return x
+  }
 
-const B = -6
-
-const C = 5
-
-if(A === 0) {
-  const x = -C/B
-  console.log(x)
-} else {
   const delta = B**2 - 4*A*C
 
   const x1 = (-B + Math.sqrt(delta))/(2*A)
   
   const x2 = (-B - Math.sqrt(delta))/(2*A)
   
-  // console.log("x1: ",x1, "\nx2: ", x2)
-  console.log("x1: ",x1)
-  console.log("x2: ",x2)
+  return [x1, x2]
 }
+
+const values = solveEquation(1,-6,5)
+
+console.log(values)
