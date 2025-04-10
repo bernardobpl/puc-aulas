@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html>
+  <body>
+    <input id="propInput" />
+    <input id="valueInput" />
+    <button onclick="editProp()">
+      meu btn
+    </button>
+  </body>
+
+  <script>
+    const inputProp = document.getElementById("propInput")
+    const inputValue = document.getElementById("valueInput")
+
+    const person = {
+      name: "Bernardo",
+      age: 27,
+      job: "Web Developer"
+    }
+
+    function editProp(){
+      person[inputProp.value] = inputValue.value
+      console.log(person)
+    }
+    
+  </script>
+</html>
